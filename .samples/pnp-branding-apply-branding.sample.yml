@@ -1,0 +1,19 @@
+sample:
+- name: Branding.ApplyBranding
+  path: Samples/Branding.ApplyBranding/
+  zone: sharepoint
+  description: This sample demonstrates common tasks related on the publishing features, like how to deploy page layouts and master pages.
+  readme: https://github.com/SharePoint/PnP/blob/master/Samples/Branding.ApplyBranding/README.md
+  generateZip: TRUE
+  isLive: TRUE
+  technologies:
+  - pnp
+  azureDeploy: ''
+  author: davidchesnut
+  platforms:
+  - .NET
+  languages:
+  - C#
+  - javascript
+  products:
+  - SharePoint
