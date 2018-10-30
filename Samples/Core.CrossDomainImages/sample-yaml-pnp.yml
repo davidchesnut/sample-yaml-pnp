@@ -1,0 +1,20 @@
+### YamlMime:Sample
+sample:
+- name: Core.CrossDomainImages
+  path: ''
+  description: 'The sample shows a technique for displaying secured images in provider-hosted app that live in a separate domain (ex: AppWeb or MySite).'
+  readme: ''
+  generateZip: False
+  isLive: True
+  technologies:
+  - Add-ins
+  azureDeploy: ''
+  author: ''
+  platforms: []
+  languages:
+  - ASP.NET
+  extensions:
+    type: samples
+    products:
+    - SharePoint
+    scenarios: []
